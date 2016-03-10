@@ -1,3 +1,3 @@
-hello from windows
+hello from ubuntu
 
 how are you??
